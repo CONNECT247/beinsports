@@ -1,0 +1,19 @@
+#EXTINF:-1,USA ABC News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21753
+#EXTINF:-1,USA BBC World News UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21755
+#EXTINF:-1,USA Bloomberg UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21756
+#EXTINF:-1,USA C-SPAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21757
+#EXTINF:-1,USA: C-SPAN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21758
+#EXTINF:-1,USA CBS News UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21759
+#EXTINF:-1,USA Cheddar News LHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21760
+#EXTINF:-1,USA Cheddar Business
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21761
+#EXTINF:-1,USA CNBC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://209.222.101.100:25461/tv/tv/21762
+#EXTINF:-1,USA CNBC World LHD
